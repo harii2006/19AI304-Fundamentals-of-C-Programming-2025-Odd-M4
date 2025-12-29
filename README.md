@@ -4,7 +4,7 @@
 ## 8. Implementation of passing parameters.
 # Ex.No:16
   Implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid. The program should check the correctness of the day, month, and year, including leap year calculations for February.
-# Date : 
+# Date : 4-12-2025
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
@@ -41,7 +41,14 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="782" height="582" alt="image" src="https://github.com/user-attachments/assets/9c9a83de-3e97-42c8-b5ea-ae494556b074" />
+<img width="778" height="534" alt="image" src="https://github.com/user-attachments/assets/b4cef235-0dd9-4862-bc87-e507980a172d" />
+
 # Output:
+<img width="835" height="120" alt="image" src="https://github.com/user-attachments/assets/075d200c-7087-47e1-ae28-02d282aaa552" />
+<img width="780" height="124" alt="image" src="https://github.com/user-attachments/assets/dad476c8-7d6e-40a8-a1ad-ee8e62289565" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +96,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+<img width="779" height="496" alt="image" src="https://github.com/user-attachments/assets/07b6154f-a8b1-4922-94c3-ac32e84ba109" />
+
 # Output:
+<img width="792" height="160" alt="image" src="https://github.com/user-attachments/assets/6cba270c-4c7b-460d-ac87-9dd2eb16528f" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +148,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+<img width="781" height="580" alt="image" src="https://github.com/user-attachments/assets/5c783203-45eb-43c7-9048-0b09b5b7b46a" />
+
 # Output:
+<img width="765" height="173" alt="image" src="https://github.com/user-attachments/assets/d5b37097-35c8-4939-96a5-4ed8886eee9c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +200,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+<img width="761" height="599" alt="image" src="https://github.com/user-attachments/assets/99001ddb-ade6-476a-8efa-e3e3cf7e657d" />
+<img width="759" height="474" alt="image" src="https://github.com/user-attachments/assets/4229c7d0-e596-4a7c-b517-54e5d502c99c" />
+
+
 # Output:
+<img width="832" height="247" alt="image" src="https://github.com/user-attachments/assets/c6cea29f-a8d6-4f94-8603-b0b2d85c951c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -194,7 +215,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-4- Module 4 - FoC
 # Ex.No:20
   Build a C program to convert a string such that the first and last characters, as well as the characters before and after each space, are converted to uppercase. Implement this using a user-defined parameterized function without return.
-# Date : 
+# Date : 4-12-2025
 # Aim:
 To build a C program to convert a string as described above, using a user-defined parameterized function without return convertFirstCLastC(char str[]).
 # Algorithm:
@@ -220,7 +241,13 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+<img width="760" height="600" alt="image" src="https://github.com/user-attachments/assets/fe40134c-6359-429a-83e1-d3ae7a06b324" />
+<img width="801" height="410" alt="image" src="https://github.com/user-attachments/assets/bf8b846a-1d44-4d48-bdc3-e78172ff2a12" />
+
 # Output:
+<img width="811" height="156" alt="image" src="https://github.com/user-attachments/assets/d1f6e8c9-d154-4520-9186-0a94f16f562d" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
